@@ -1,5 +1,6 @@
 # traffic-lights
 Traffic light junction powered by Arduino Uno and programmed via Arduino IDE.
+Code:
 
 // light one
 int red1 = 10;
